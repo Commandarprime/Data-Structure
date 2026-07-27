@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Commandarprime/Data-Structure/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Commandarprime/Data-Structure/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Commandarprime/Data-Structure/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0075-sort-colors](https://github.com/Commandarprime/Data-Structure/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Commandarprime/Data-Structure/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Commandarprime/Data-Structure/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Commandarprime/Data-Structure/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Commandarprime/Data-Structure/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Commandarprime/Data-Structure/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Commandarprime/Data-Structure/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Commandarprime/Data-Structure/tree/master/0283-move-zeroes) |
 ## Math
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Commandarprime/Data-Structure/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Commandarprime/Data-Structure/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Commandarprime/Data-Structure/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
