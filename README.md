@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Commandarprime/Data-Structure/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Commandarprime/Data-Structure/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Commandarprime/Data-Structure/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Commandarprime/Data-Structure/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Commandarprime/Data-Structure/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Commandarprime/Data-Structure/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Commandarprime/Data-Structure/tree/master/0485-max-consecutive-ones) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Commandarprime/Data-Structure/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Commandarprime/Data-Structure/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Commandarprime/Data-Structure/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Commandarprime/Data-Structure/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Commandarprime/Data-Structure/tree/master/3536-maximum-product-of-two-digits) |
@@ -67,8 +69,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Commandarprime/Data-Structure/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Commandarprime/Data-Structure/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Commandarprime/Data-Structure/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Commandarprime/Data-Structure/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Commandarprime/Data-Structure/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
