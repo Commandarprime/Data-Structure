@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Commandarprime/Data-Structure/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Commandarprime/Data-Structure/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Commandarprime/Data-Structure/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1406-stone-game-iii](https://github.com/Commandarprime/Data-Structure/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Commandarprime/Data-Structure/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Commandarprime/Data-Structure/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Commandarprime/Data-Structure/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Commandarprime/Data-Structure/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Commandarprime/Data-Structure/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Commandarprime/Data-Structure/tree/master/0628-maximum-product-of-three-numbers) |
+| [1406-stone-game-iii](https://github.com/Commandarprime/Data-Structure/tree/master/1406-stone-game-iii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Commandarprime/Data-Structure/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Commandarprime/Data-Structure/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Commandarprime/Data-Structure/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1406-stone-game-iii](https://github.com/Commandarprime/Data-Structure/tree/master/1406-stone-game-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -116,4 +119,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Commandarprime/Data-Structure/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Commandarprime/Data-Structure/tree/master/0073-set-matrix-zeroes) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Commandarprime/Data-Structure/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Commandarprime/Data-Structure/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Commandarprime/Data-Structure/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
