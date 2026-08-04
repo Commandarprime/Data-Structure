@@ -1,10 +1,10 @@
 
 ### 🧠 About this Repo
 
-> 💜 Ye repo mera daily DSA grind hai — LeetCode se solve kiye gaye Java solutions, auto-synced via LeetHub v2.
+> 💜 This repo I made for daily DSA grind which I solve for approaching new concepts of Algorithm — LeetCode, Java solutions, auto-synced via LeetHub v2.
 
 - 🎯 Following **Striver's A2Z DSA Sheet** + daily challenges
-- ☕ Solutions likhta hoon **pure Java**, with focus on clean, interview-ready code
+- ☕ Writing Solutions **pure Java**, with focus on clean, interview-ready code
 - 🔁 Practice pattern: Brute Force → Bottleneck → Optimized → Edge Cases
 - 📚 Core focus areas: **Binary Search, Two Pointers, Arrays, Sorting, Hashing**
 
