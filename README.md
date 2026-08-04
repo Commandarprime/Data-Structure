@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Commandarprime/Data-Structure/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Commandarprime/Data-Structure/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Commandarprime/Data-Structure/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3731-find-missing-elements](https://github.com/Commandarprime/Data-Structure/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,12 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Commandarprime/Data-Structure/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Commandarprime/Data-Structure/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Commandarprime/Data-Structure/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Commandarprime/Data-Structure/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Commandarprime/Data-Structure/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Commandarprime/Data-Structure/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Commandarprime/Data-Structure/tree/master/0169-majority-element) |
+| [3731-find-missing-elements](https://github.com/Commandarprime/Data-Structure/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
